@@ -72,6 +72,6 @@ def main():
         else:
             print("Invalid command. Enter 'help' to see available commands.")
 
-
+print("Hello")
 if __name__ == "__main__":
     main()
